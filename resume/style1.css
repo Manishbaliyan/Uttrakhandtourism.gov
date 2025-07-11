@@ -1,0 +1,182 @@
+.div1{
+    background-color: rgb(37, 91, 162);
+    width: 100%;
+    height: 40px;
+    float: left;
+    
+}
+
+.div1-1{
+    /* background-color: yellowgreen; */
+    height: 25px;
+    width: 200px;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: serif;
+    color: rgba(255, 255, 255, 0.934);
+    float: left;
+}
+
+.div1-1:hover{
+    color: white;
+}
+.div1-2{
+    height: 25px;
+    width: 225px;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: serif;
+    color: rgba(255, 255, 255, 0.66);
+    float: left;
+    /* background-color: aqua; */
+}
+.div1-2:hover{
+    color: white;
+}
+
+.div1-3{
+    height: 25px;
+    width: 145px;
+    margin-top: 8px;
+    margin-left: 400px;
+    font-size: 17px;
+    font-family: serif;
+    color: rgba(255, 255, 255, 0.878);
+    float: left;
+    /* background-color: aqua; */
+}
+.div1-3:hover{
+    color: white;
+}
+
+.div1-4{
+    height: 25px;
+    width: 145px;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: serif;
+    color: rgba(255, 255, 255, 0.855);
+    float: left;
+    /* background-color: aqua; */
+}
+.div1-4:hover{
+    color: white;
+}
+
+.div1-5{
+    height: 25px;
+    width: 120px;
+    margin-top: 8px;
+    margin-left: 15px;
+    font-size: 17px;
+    font-family: serif;
+    color: rgba(255, 255, 255, 0.858);
+    float: left;
+    /* background-color: aqua; */
+}
+.div1-5:hover{
+    color: white;
+}
+
+
+.div2{
+    background-image: url(https://cdn.pixabay.com/photo/2023/03/31/14/44/nature-7890194_1280.jpg);
+    float: left;
+    height: 200px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+.div2-1{
+/* background-color: rgba(0, 153, 255, 0.625); */
+height: 25px;
+width: 70px;
+float: left;
+margin-top: 20px;
+margin-left: 220px;
+text-decoration: none;
+color: rgba(255, 255, 255, 0.841);
+
+}
+.div2-1:hover{
+    color: rgb(252, 9, 9);
+}
+.div2-2-1{
+    /* background-color: rgba(0, 153, 255, 0.625); */
+    height: 25px;
+    width: 200px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgba(255, 255, 255, 0.841); 
+    border-radius: 5PX;
+}
+.div2-2-1:hover{
+    color: rgb(252, 5, 5);
+}
+
+.div2-2{
+    /* background-color: rgba(0, 153, 255, 0.625); */
+    height: 25px;
+    width: 120px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px; 
+    color: rgba(255, 255, 255, 0.841); 
+}
+.div2-2:hover{
+    color: rgb(251, 8, 8);
+}
+
+.div2-3{
+    /* background-color: aqua; */
+    height: 25px;
+    width: 111px;
+    float: left;
+    margin-top: 25px;
+    color: rgb(255, 253, 253);
+    
+}
+.div2-3:hover{
+    color: rgb(255, 5, 5);
+}
+.div2-4{
+    background-color: rgb(29, 29, 154);
+    height: 35px;
+    width: 220px;
+    float: left;
+    margin-top: 16px;
+    margin-left: 10px;
+    color: white;
+    border-radius: 5px;
+}
+.div2-4:hover{
+    color: rgba(0, 255, 255, 0.537);
+}
+
+.div2-5{
+    background-color: rgba(0, 0, 0, 0.066);
+    height: 100px;
+    width: 530px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+    font-size: 50px;
+
+}
+
+.div2-6{
+    /* background-color: antiquewhite; */
+    height: 30px;
+    width: 200px;
+    float: left;
+    margin-left: 450px;
+    margin-top: 100px;
+    color: white;
+}
